@@ -1,0 +1,7 @@
+Hello, ${user} <br/><br/>
+	<p> we are here to inform you that your plan status is ${plan_status} .
+	 </p>
+	 <br/>
+	 	you can find details in following attached pdf.
+	  <br/>
+	
