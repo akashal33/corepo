@@ -8,7 +8,7 @@ spring:
    # driver-class-name: oracle.jdbc.driver.OracleDriver
     #url: jdbc:oracle:thin:@localhost:1521/xe
     #username: SYS as SYSDBA
-    #password: snehal
+    #password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/tgh
     username: root
